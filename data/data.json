@@ -1,0 +1,67 @@
+{
+  "items": [
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    },
+    {
+      "type": "tshirt",
+      "gender": "female",
+      "sice": "large",
+      "color": "pink",
+      "image": "..img/pink_t.png"
+    }
+  ]
+}
